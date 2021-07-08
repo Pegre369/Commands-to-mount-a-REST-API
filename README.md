@@ -32,6 +32,7 @@ Now we need to create a command that we will use to translate Typescript to Json
 After that, in the scripts part, we need to write this:
 
   >*"build": "tsc -w",* (this part with the comma)
+  >
   >*"dev": "nodemon build/index.js"*
 
 the root build/index.js is the root of the file that the open the port.
