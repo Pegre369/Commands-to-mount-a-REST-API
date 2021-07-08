@@ -43,6 +43,7 @@ Finally, run those coman with the following structure:
 Those commands that we installed and created, it only to create a server with Node js, using Typescript. If you need to connect some database, I will recommend to see the following videos:
 
   >[Angular Mysql CRUD Tutorial, REST API Node & Typescript](https://www.youtube.com/watch?v=lxYB79ANJM8&t=961s)
+  >
   >[Microsoft SQL Server & Nodejs REST API CRUD](https://www.youtube.com/watch?v=ReK0kscoF8o&t=2118s) ***(this video only use Node js and json)***
 
 
