@@ -46,4 +46,7 @@ Those commands that we installed and created, it only to create a server with No
   >
   >[Microsoft SQL Server & Nodejs REST API CRUD](https://www.youtube.com/watch?v=ReK0kscoF8o&t=2118s) ***(this video only use Node js and json)***
 
+If you want to connect to the Microsoft SQL Server using typescript, I leave you a link to my repository to see an example of how to do it
+  >[Repository Microsoft SQL Server & Nodejs](https://github.com/Pegre369/Microsoft-SQL-Server-SQLServer-Nodejs)
+
 
